@@ -2,7 +2,7 @@
 
 A production-grade Claude Code configuration: skills, agents, hooks, rules, and permissions working as a system, not as isolated features.
 
-**Companion repo for the article**: *"J'ai transforme Claude Code en systeme d'exploitation. Voici le plan."*
+**Companion repo for the article**: *"I Turned Claude Code Into an Operating System. Here's the Blueprint."*
 
 ---
 
